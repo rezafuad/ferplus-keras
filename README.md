@@ -1,5 +1,6 @@
 # FERPlus using Keras
 This repository contain the re-implementation of VGG13 on FERPlus dataset using Keras.
+Results will be posted soon.
 
 ### References:
 1. Original CNTK version of VGG13 FERPlus [https://github.com/Microsoft/FERPlus]
